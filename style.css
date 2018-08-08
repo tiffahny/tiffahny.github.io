@@ -1,0 +1,18 @@
+h1 {
+  color: teal;
+  font-family: 'Abril Fatface', cursive; 
+  }
+  
+.example1 {
+  background-color: powderblue;
+  color: DarkOrchid;
+  }
+  
+.example2 {
+  color: teal;
+  }
+
+* {
+  font-family: 'Amatic SC', cursive;
+  font-size: 125%;
+  }
